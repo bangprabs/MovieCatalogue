@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie">Film</string>
+    <string name="movieDesc">Deskripsi</string>
+    <string name="movieTitle">Judul Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="dateMovie">Tanggal FIlm</string>
+    <string name="genreMovie">Jenis Film</string>
+    <string name="english">Inggris</string>
+    <string name="bahasa">Indonesia</string>
+    <string name="headMovie">Judul Film</string>
+    <string name="headDate">Tanggal Rilis</string>
+    <string name="headGenre">Jenis Film</string>
+    <string name="headDesc">Sinopsis Film</string>
+    <string name="tanpadata">Tidak ada data</string>
+    <string name="favorite">Favorit</string>
+    <string name="addFavorite">Anda Menyukai Film Ini</string>
+    <string name="removeFavorite">Film Ini Telah Dihapus Dari Favorit</string>
+    <string name="appName">Katalog Film</string>
+    <string name="search" />
+    <string name="setting">Pengaturan</string>
+</resources>

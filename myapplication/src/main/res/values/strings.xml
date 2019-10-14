@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="movieDesc">Deskripsi</string>
+    <string name="movieTitle">Judul FIlm</string>
+    <string name="dateMovie">Tanggal Rilis</string>
+    <string name="desc_img_detail">hellow</string>
+</resources>

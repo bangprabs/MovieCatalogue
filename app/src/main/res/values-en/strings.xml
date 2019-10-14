@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie">Movie</string>
+    <string name="movieDesc">Description</string>
+    <string name="movieTitle">Movie Title</string>
+    <string name="tv_show">TV Show</string>
+    <string name="dateMovie">Date Movie</string>
+    <string name="genreMovie">Genre Movie</string>
+    <string name="english">English</string>
+    <string name="bahasa">Indonesia</string>
+    <string name="headMovie">Movie Title</string>
+    <string name="headDate">Realese Date</string>
+    <string name="headGenre">Genre Movie</string>
+    <string name="headDesc">Synopsis Movie</string>
+    <string name="tanpadata">No Data</string>
+    <string name="favorite">Favorite</string>
+    <string name="addFavorite">You Like This Movie</string>
+    <string name="removeFavorite">" This Movie Has Been Deleted From Favorites"</string>
+    <string name="appName">Movie Catalogue</string>
+    <string name="search" />
+    <string name="setting">Setting</string>
+</resources>
